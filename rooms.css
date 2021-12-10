@@ -242,6 +242,7 @@ h1 {
     .card {
         margin-bottom: 26px;
     }
+    
 
     .card.mb-3 {
         left: -3%;
@@ -287,8 +288,12 @@ h1 {
         height: 100%;
         background-image: var(--gradient-color-alt);
     }
-
-
+    header{
+        margin-bottom: 150px;
+    }
+    .video-cont {
+        margin-top: 1000px;
+    }
 
     .navbar-collapse.collapsing {
         left: -75%;
