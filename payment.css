@@ -246,7 +246,12 @@ h1 {
     .card {
         margin-bottom: 26px;
     }
-
+    .pay-btn {
+        width: 600px;
+      }
+    .btns button {
+        width: 100%;
+    }
     .wrapper {
         margin-left: 0;
         margin-right: 20%;
@@ -621,7 +626,7 @@ button:focus {
         margin-bottom: 5%;
         border-radius: 25px;
     }
-
+  
     .container {
         width: 100%;
     }
@@ -631,7 +636,7 @@ button:focus {
     }
 
     .btns button {
-        width: 100%;
+        width: 30vw;
     }
 
     form h1 {

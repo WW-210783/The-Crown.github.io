@@ -191,7 +191,9 @@ ul a:hover {
         right: 0;
         align-items: center;
     }
-
+    header{
+        margin-bottom: 150px;
+    }
     body {
         width: 100%;
     }

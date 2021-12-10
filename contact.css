@@ -254,6 +254,10 @@ h1 {
         left:0;
         width:1;
     }
+    #hline{
+        margin-top:100px;
+      
+    }
     .pop-dest{
         padding: 0;
     }
@@ -621,6 +625,7 @@ button:focus {
 
     .btns {
         align-items: center;
+        margin-left: 200px;
     }
 
     .btns button {
