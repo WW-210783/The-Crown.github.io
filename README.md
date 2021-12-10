@@ -14,4 +14,4 @@ A multi-page website of an international chain of luxury hotels across the globe
 9. YouTube Channel : https://www.youtube.com/channel/UCkiQBcspAOCxi4JoG_o31CQ
 10. Videos on YouTube : Created by using Lightworks video editor and videos from pexels. Audio taken from chosic (https://www.chosic.com/)
 
-### Note : payment.html and COVID-19 Precaution is accesible from the 'Book Now' button in booking.html
+### Note :  COVID-19 and Precaution payment.html is accesible from the 'Book Now' button in booking.html
